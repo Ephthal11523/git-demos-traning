@@ -1,0 +1,5 @@
+#all md file
+*.md
+*.lass
+*.settings
+*.project
